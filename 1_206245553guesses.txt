@@ -1,0 +1,14 @@
+# Best fit parameters. These are: 
+#                Depth, Impact parameter, time of transit, sigma (additional white noise),
+#                Sum of LD coefficients,  Mass of the star, Radius of the star (gaussian priors
+#                on both), the out of eclipse flux, and the standard deviation of the 
+#                out-of-transit flux.
+4.6822e-04
+1.9063e-01
+1.9199e-03
+7.8637e-05
+7.5329e-01
+1.0628e+00
+1.0309e+00
+1.0000e+00
+3.2739e-05
