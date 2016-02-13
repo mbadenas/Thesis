@@ -3,12 +3,12 @@
 #                Sum of LD coefficients,  Mass of the star, Radius of the star (gaussian priors
 #                on both), the out of eclipse flux, and the standard deviation of the 
 #                out-of-transit flux.
-1.0691e-03
-1.0429e-01
--7.6338e-05
-5.1512e-05
-6.3216e-01
-9.0954e-01
-8.1508e-01
+1.0864e-03
+8.9269e-02
+-1.0015e-04
+5.1738e-05
+5.8626e-01
+9.0884e-01
+8.0825e-01
 1.0000e+00
 7.0724e-05
