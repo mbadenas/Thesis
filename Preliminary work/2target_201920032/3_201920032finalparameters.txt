@@ -1,0 +1,13 @@
+# Parameters obtained from fitting the Kepler data. The 1st column represents the 50% percentile of the MCMC posterior distribution, 
+# 	whereas the 2nd and 3rd represent, respectively, the +1 and -1 sigma uncertainty. In row order, the parameters are: Depth, Impact parameter, time of transit, sigma 
+# 	(full error), Sum of LD coefficients, Mass of the star, Radius of the star (gaussian priors on both), out of eclipse flux, Planet radius, R_s/a.
+6.6950e-04   9.8342e-05   8.1821e-05
+5.4563e-01   1.5904e-01   2.8594e-01
+-8.8795e-04   3.1111e-03   3.7162e-03
+1.9568e-04   1.5882e-05   9.6131e-06
+7.7685e-01   1.5845e-01   2.2156e-01
+9.8426e-01   6.8344e-02   7.4383e-02
+9.0517e-01   1.5583e-01   1.0288e-01
+1.0000e+00   2.5068e-05   2.4560e-05
+2.5474e+00   6.0207e-01   3.9537e-01
+2.3357e-02   3.9490e-03   2.6673e-03
