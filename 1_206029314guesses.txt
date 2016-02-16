@@ -1,14 +1,14 @@
-# Best fit parameters. These are: 
+# Best fit model parameters. These are: 
 #                Depth, Impact parameter, time of transit, sigma (additional white noise),
 #                Sum of LD coefficients,  Mass of the star, Radius of the star (gaussian priors
 #                on both), the out of eclipse flux, and the standard deviation of the 
-#                out-of-transit flux.
-3.0274e-02
-6.6758e-01
--4.3387e-04
-1.0106e-03
-5.0654e-01
-5.2544e-01
-1.3972e+00
-1.0000e+00
-3.5862e-04
+#                out-of-transit flux for the phase-folded light curve.
+2.95331777370e-02
+6.35903141062e-01
+-6.61403603383e-04
+1.01620176307e-03
+6.41939338403e-01
+5.55486115916e-01
+1.39899893964e+00
+9.99982324566e-01
+3.58618816675e-04
