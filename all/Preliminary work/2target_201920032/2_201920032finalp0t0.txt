@@ -1,0 +1,3 @@
+# Column 1: Period (row 1) and its uncertainty (row 2). Column 2: t0 (row 1) and its uncertainty (row 2).
+2.82716158952e+01,2.00020392400e+03
+4.22482023771e-03,6.02627878562e-03

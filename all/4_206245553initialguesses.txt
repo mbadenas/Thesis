@@ -1,0 +1,11 @@
+# Input guesses obtained after fitting the phase-folded light curve (depth, 
+#               impact parameter, initial transit time, sigma (additional white noise term), mass (Earth units),
+#               radius (Earth units), out-of-eclipse flux.)
+0.00046638107
+0.29876034575
+0.00076745570
+0.00000000212
+0.92275826219
+1.07136384510
+1.07501701703
+1.00004208868
