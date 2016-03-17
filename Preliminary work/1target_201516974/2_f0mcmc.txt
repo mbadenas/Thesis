@@ -1,0 +1,5 @@
+# Outside-of-transit flux estimates (f0). The 1st column represents the 50% percentile of the MCMC posterior 
+#             distribution. The 2nd and 3rd show respectively the +1 and -1 sigma uncertainty. Each row is a transit 
+#             in the light curve (i.e. row 1 = transit 1, row 2 = transit 2, etc.).
+1.000   0.000   0.000
+0.999   0.000   0.000

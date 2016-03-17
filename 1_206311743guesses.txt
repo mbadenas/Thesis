@@ -3,12 +3,12 @@
 #                Sum of LD coefficients,  Mass of the star, Radius of the star (gaussian priors
 #                on both), the out of eclipse flux, and the standard deviation of the 
 #                out-of-transit flux for the phase-folded light curve.
-4.41974058140e-02
-7.65007431668e-01
-1.48397371418e-03
-2.44571596405e-03
-9.99998869138e-01
-2.04200632009e-02
-7.68155840443e-01
-1.00012888131e+00
-3.32563179184e-04
+0.03361618083
+0.19597923478
+0.00088105794
+0.00478339208
+0.40000000174
+0.49130273080
+1.31515051850
+0.99859864392
+0.00083446706
