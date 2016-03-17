@@ -1,7 +1,0 @@
-# Column 1 shows the period (row 1) and its uncertainty (row 2). 
-#                Column 2 gives t0 (row 1) and its uncertainty (row 2). Light curves with only two
-#                transits have uncertainties equal to 0.0. This is NOT because 0.0 is their 
-#                actual value, but because we couldn't calculate it with only two points.
-#                
-24.3874161985 0.0006047641
-2152.8841173538 0.0005427866
