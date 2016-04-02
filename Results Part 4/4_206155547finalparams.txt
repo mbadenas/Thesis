@@ -1,16 +1,15 @@
 # Parameters obtained from fitting the Kepler data. 
-#                        The 1st column represents the 50% percentile of the MCMC posterior distribution, 
-#                        whereas the 2nd and 3rd represent, respectively, the +1 and -1 sigma uncertainty. 
-#                        In row order, the parameters are: Depth, Impact parameter, time of transit, sigma (full error), 
-#                        Sum of LD coefficients, Mass of the star in Earth units, Radius of the star in  earth units (gaussian priors on both), 
-#                        out of eclipse flux, Planet radius (Earth units), R_s/a (Inverse of scaled semi-major axis)
-0.01994012758   0.00031715791   0.00022569073
-0.14454105373   0.11078949828   0.09792086831
-0.00008096685   0.00021538268   0.00021335750
-0.00107798093   0.00000839181   0.00000696076
-0.67036773319   0.03560016976   0.03790846290
-1.19407452671   0.10904189119   0.11146431127
-1.08599376136   0.03683524300   0.03742427630
-0.99994170706   0.00004600099   0.00004517875
-16.72110273901   0.61839189695   0.59673223803
-0.02884615215   0.00058488859   0.00027380035
+#                                The 1st column represents the 50% percentile of the MCMC posterior distribution. The 2nd and 3rd show the +1 and -1 sigma errors, respectively. 
+#                                In row order, the parameters are: Depth, Impact parameter, time of transit, sigma (full error), 
+#                                Sum of LD coefficients, Mass of the star (Solar units), Radius of the star (Solar units), the 
+#                                out of eclipse flux, Planet radius (Earth units), R_s/a (Inverse of scaled semi-major axis)
+0.01995336290   0.00033779708   0.00023787918
+0.14969498038   0.11459243025   0.10213329547
+-0.00035422850   0.00021447247   0.00021447887
+0.00095849811   0.00000959216   0.00000756818
+0.66864512030   0.03699501420   0.03854368114
+1.19132907307   0.10889250508   0.10603204902
+1.08667821490   0.03728963738   0.03681711266
+0.99996717519   0.00004602144   0.00004563150
+16.73653194610   0.63502316051   0.58819720116
+0.02886872189   0.00062274001   0.00028274677

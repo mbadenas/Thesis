@@ -1,16 +1,15 @@
 # Parameters obtained from fitting the Kepler data. 
-#                        The 1st column represents the 50% percentile of the MCMC posterior distribution, 
-#                        whereas the 2nd and 3rd represent, respectively, the +1 and -1 sigma uncertainty. 
-#                        In row order, the parameters are: Depth, Impact parameter, time of transit, sigma (full error), 
-#                        Sum of LD coefficients, Mass of the star in Earth units, Radius of the star in  earth units (gaussian priors on both), 
-#                        out of eclipse flux, Planet radius (Earth units), R_s/a (Inverse of scaled semi-major axis)
-0.00066535208   0.00005638596   0.00005581586
-0.33863010343   0.22471664184   0.22699190479
--0.00011168768   0.00059162675   0.00047440099
-0.00017091556   0.00001423646   0.00001413794
-0.67405848350   0.16000087538   0.20913896702
-0.99870782781   0.07398006972   0.06948221536
-0.80847785519   0.10939485261   0.05784612659
-1.00018259773   0.00002393257   0.00002433231
-2.26407167490   0.37181094522   0.18265835365
-0.02071912961   0.00281438422   0.00139872374
+#                                The 1st column represents the 50% percentile of the MCMC posterior distribution. The 2nd and 3rd show the +1 and -1 sigma errors, respectively. 
+#                                In row order, the parameters are: Depth, Impact parameter, time of transit, sigma (full error), 
+#                                Sum of LD coefficients, Mass of the star (Solar units), Radius of the star (Solar units), the 
+#                                out of eclipse flux, Planet radius (Earth units), R_s/a (Inverse of scaled semi-major axis)
+0.00065901791   0.00005820933   0.00005020567
+0.31823298698   0.21832622055   0.21394324812
+-0.00154253144   0.00317739371   0.00321585558
+0.00017088370   0.00001470799   0.00001249569
+0.78931091042   0.14768897906   0.20238687565
+0.99890442088   0.06545463228   0.06733395486
+0.80982504909   0.08702701346   0.05717928740
+1.00001558624   0.00002273157   0.00002280944
+2.25022316603   0.31936084433   0.17663043919
+0.02073627943   0.00228566405   0.00137603717

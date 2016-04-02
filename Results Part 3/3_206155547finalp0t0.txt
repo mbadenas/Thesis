@@ -1,7 +1,7 @@
 # Column 1 shows the period (row 1) and its uncertainty (row 2). 
 #                        Column 2 gives t0 (row 1) and its uncertainty (row 2). Light curves with only two
 #                        transits have uncertainties equal to 0.0. This is NOT because 0.0 is their 
-#                        actual value, but because we couldn't calculate it with only two points.
+#                        actual value, but because we couldn't calculate the error with only two points.
 #                        
-24.3874201770 0.0005738118
-2152.8841025787 0.0005237986
+24.3873658957 0.0011857919
+2152.8845926816 0.0014427508

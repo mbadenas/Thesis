@@ -1,16 +1,15 @@
 # Parameters obtained from fitting the Kepler data. 
-#                            The 1st column represents the 50% percentile of the MCMC posterior distribution, 
-#                            whereas the 2nd and 3rd represent, respectively, the +1 and -1 sigma uncertainty. 
-#                            In row order, the parameters are: Depth, Impact parameter, time of transit, sigma (full error), 
-#                            Sum of LD coefficients, Mass of the star in Earth units, Radius of the star in  earth units (gaussian priors on both), 
-#                            out of eclipse flux, Planet radius (Earth units), R_s/a (Inverse of scaled semi-major axis)
-0.00048469432   0.00000041596   0.00000048469
-0.23090815447   0.00019873352   0.00025151372
-0.00169249840   0.00000175740   0.00000171240
-0.00006543627   0.00000005731   0.00000005562
-0.71246302855   0.00083298474   0.00055347030
-1.05607434094   0.00110290200   0.00111060843
-1.01999378614   0.00100397682   0.00091848443
-1.00002210719   0.00092024689   0.00112643559
-2.44828658621   0.00327698101   0.00210266982
-0.06220200598   0.00006227562   0.00006684469
+#                                The 1st column represents the 50% percentile of the MCMC posterior distribution. The 2nd and 3rd show the +1 and -1 sigma errors, respectively. 
+#                                In row order, the parameters are: Depth, Impact parameter, time of transit, sigma (full error), 
+#                                Sum of LD coefficients, Mass of the star (Solar units), Radius of the star (Solar units), the 
+#                                out of eclipse flux, Planet radius (Earth units), R_s/a (Inverse of scaled semi-major axis)
+0.00049870822   0.00003936117   0.00003022558
+0.36939252152   0.23571557320   0.24741416466
+0.00050658424   0.00100770047   0.00098186465
+0.00009018832   0.00000641043   0.00000568108
+0.73855642401   0.16135518341   0.17729303093
+1.07133632394   0.09929987074   0.10097435139
+1.08657185302   0.16821569412   0.07938010041
+0.99999968943   0.00001159683   0.00001174241
+2.62460466194   0.52492327885   0.21801517594
+0.06565283728   0.01049114145   0.00426386102
